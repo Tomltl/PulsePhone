@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col items-center justify-center min-h-screen bg-gray-100">
-    <h1 class="text-3xl font-bold mb-4">Recommandation de Téléphone</h1>
+    <h1 class="text-3xl font-bold mb-4">Recommandation de Téléphones</h1>
     <form @submit.prevent="submitForm" class="bg-white p-6 rounded-lg shadow-md">
       <div class="mb-4">
         <label for="budget" class="block text-gray-700">Budget :</label>
